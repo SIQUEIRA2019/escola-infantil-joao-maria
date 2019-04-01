@@ -1,0 +1,144 @@
+body{
+font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+/*CORES E FONTES DO CORPO DO SITE*/
+
+envelope{
+    width: 960px;
+    margin:auto;
+    background: red;
+    padding: 10px 20px;
+    overflow: hidden;*/
+
+    
+}
+.listadecursos{
+    text-transform: uppercase;
+    margin-top: 25px;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    background: blanchedalmond;
+    color: black;
+
+}
+/*LAYOUT*/
+.cabecalho{
+    background: rgb(12, 12, 12);
+}
+header h1{
+    padding:5px 10px;
+
+}
+.login{
+    text-align: right;
+    margin-top: 25px;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    background:rgb(12, 12, 12);
+    color: whitesmoke;
+
+
+}
+.logo1{
+    width: 150px;
+    border:solid;
+    color:whitesmoke;
+    padding: 1px;
+    margin: 15px;
+    overflow: auto;
+    float: left;
+    
+   
+    
+}
+
+h1.logo{
+
+    font-weight: 500;
+    color:rgb(217, 226, 174);
+    letter-spacing: 3px;
+    text-align: center;
+    margin: 25px auto;
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+blockquote{
+    font-weight: 110;
+    color: darkgoldenrod;
+    letter-spacing: 1px;
+    text-align: center;
+    
+
+}
+
+.rodape{
+    background: rgb(12, 12, 12);
+    color:rgb(217, 226, 174);
+    padding: 25px 0;
+    text-align: center;
+    font-weight: 100;
+    overflow: auto;
+}
+footer{
+    clear: both;
+}
+.menu{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 25px;
+}
+.menu li a{
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+.menu li a:hover{
+    text-decoration: none;
+    background: rgb(217, 226, 174);
+    color: black;
+
+}
+
+a:link, a:active, a:visited{
+    color:rgb(217, 226, 174);
+    text-decoration: none;
+}
+a:hover{
+    text-combine-upright: underline;
+
+/*SESSOES DE CONTEUDOS*/
+
+  
+}
+caption{
+    background: black;
+    color:rgb(217, 226, 174);
+    border:0px solid;
+    padding: 5px;
+
+
+}
+
+.linha{
+    width: 960px;
+    margin: 0 auto;
+    overflow: auto;
+}
+/*estilos reutilizaveis*/
+ul li, ol li{
+    margin-bottom: 5px;  
+}
+ul.inline li, ol.inline li{
+    display: inline;
+    margin-left: 15px;
+}
+ul.inline li:last-child, ol.inline li:last-child{
+    margin-right: 0;
+}

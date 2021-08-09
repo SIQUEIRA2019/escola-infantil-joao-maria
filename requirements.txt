@@ -50,7 +50,7 @@ pytest==4.3.0
 python-dateutil==2.8.0
 pytz==2018.9
 PyWavelets==1.0.2
-pywin32==224
+pywin32==301
 query-string==2018.11.20
 request==2018.11.20
 requests==2.21.0
